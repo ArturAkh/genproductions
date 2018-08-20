@@ -17,7 +17,7 @@ if args.folder is None:
 
 logs = glob.glob(os.path.join(args.folder,"*.log"))
 
-output_file = open("generator_xsecs.json", "w")
+output_file = open(os.path.join(args.folder,"generator_xsecs.json"), "w")
 xsec_dict = {}
 
 for log in logs:
