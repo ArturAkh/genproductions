@@ -11,4 +11,4 @@ git clone -b xsec https://github.com/ArturAkh/genproductions.git
 
 cp genproductions/scripts/run_xsecs.sh .
 mkdir ../../htcondor_results
-cp genproductions/scripts/*.jdl genproductions/scripts/arguments.txt ../../htcondor_results/
+cp genproductions/scripts/*.jdl genproductions/scripts/arguments.txt genproductions/scripts/run_xsecs.sh ../../htcondor_results/
