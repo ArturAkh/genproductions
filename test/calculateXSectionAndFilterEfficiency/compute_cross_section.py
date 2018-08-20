@@ -68,7 +68,7 @@ if __name__ == "__main__":
     else:
         # search dataset name as name + campaign + datatier
         primary_dataset_name = args.inputdataset.split('/')[1]
-        command="/cvmfs/cms.cern.ch/common/dasgoclient --limit=0 --query=\"dataset dataset=/"+primary_dataset_name+"/*"+args.campaign+"*/"+args.datatier+"\""
+        command="/cvmfs/cms.cern.ch/common/dasgoclient --limit=0 --query=\"dataset dataset=/"+primary_dataset_name+"/*"+args.campaign+"*/"+args.datatier+" status=*\""
         dataset_used = commands.getstatusoutput(command)[1].split("\n")
         if debug: print 'command',command,'\n'
         dataset_used = [x.strip() for x in dataset_used][0]
