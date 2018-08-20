@@ -1,0 +1,10 @@
+executable = run_xsecs.sh
+output = out/$(Process).out
+error = error/$(Process).err
+log = log/$(Process).log
+should_transfer_files = YES
+transfer_input_files = /nfs/dust/cms/user/aakhmets/GenXSecAnalyzer/htcondor_results/run_xsecs.sh
+transfer_output_files = ""
+getenv = True
+RequestMemory = 1500
+queue arguments from arguments.txt
