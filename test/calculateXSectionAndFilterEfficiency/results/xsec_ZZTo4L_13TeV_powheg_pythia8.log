@@ -1,0 +1,97 @@
+17-Aug-2018 18:54:48 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/D00306B9-F541-E811-9201-008CFAC93EFC.root
+17-Aug-2018 18:54:53 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/D00306B9-F541-E811-9201-008CFAC93EFC.root
+Begin processing the 1st record. Run 1, Event 18918, LumiSection 21 at 17-Aug-2018 18:54:54.580 CEST
+17-Aug-2018 18:55:02 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/D00306B9-F541-E811-9201-008CFAC93EFC.root
+17-Aug-2018 18:55:02 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/EC8E20CE-F641-E811-8E59-008CFAC93BF0.root
+17-Aug-2018 18:55:02 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/EC8E20CE-F641-E811-8E59-008CFAC93BF0.root
+Begin processing the 100001st record. Run 1, Event 1946733, LumiSection 2059 at 17-Aug-2018 18:55:03.675 CEST
+17-Aug-2018 18:55:08 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/EC8E20CE-F641-E811-8E59-008CFAC93BF0.root
+17-Aug-2018 18:55:08 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/24009C28-FA41-E811-AF06-008CFAC93F14.root
+17-Aug-2018 18:55:08 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/24009C28-FA41-E811-AF06-008CFAC93F14.root
+Begin processing the 200001st record. Run 1, Event 1941591, LumiSection 2054 at 17-Aug-2018 18:55:11.836 CEST
+17-Aug-2018 18:55:14 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/24009C28-FA41-E811-AF06-008CFAC93F14.root
+17-Aug-2018 18:55:14 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/2EEC4807-0542-E811-A482-008CFAE45344.root
+17-Aug-2018 18:55:14 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/2EEC4807-0542-E811-A482-008CFAE45344.root
+Begin processing the 300001st record. Run 1, Event 6995038, LumiSection 7399 at 17-Aug-2018 18:55:20.271 CEST
+17-Aug-2018 18:55:20 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/2EEC4807-0542-E811-A482-008CFAE45344.root
+17-Aug-2018 18:55:20 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/A47915E9-0742-E811-96DA-008CFAC91C60.root
+17-Aug-2018 18:55:20 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/A47915E9-0742-E811-96DA-008CFAC91C60.root
+17-Aug-2018 18:55:26 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/A47915E9-0742-E811-96DA-008CFAC91C60.root
+17-Aug-2018 18:55:26 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/C6B08C7C-0D42-E811-9975-008CFAC915FC.root
+17-Aug-2018 18:55:26 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/C6B08C7C-0D42-E811-9975-008CFAC915FC.root
+Begin processing the 400001st record. Run 1, Event 4877663, LumiSection 5159 at 17-Aug-2018 18:55:29.500 CEST
+17-Aug-2018 18:55:33 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/C6B08C7C-0D42-E811-9975-008CFAC915FC.root
+17-Aug-2018 18:55:33 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/76A1F6F9-1642-E811-B032-008CFAC93D1C.root
+17-Aug-2018 18:55:34 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/76A1F6F9-1642-E811-B032-008CFAC93D1C.root
+Begin processing the 500001st record. Run 1, Event 4080350, LumiSection 4316 at 17-Aug-2018 18:55:39.402 CEST
+17-Aug-2018 18:55:40 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/76A1F6F9-1642-E811-B032-008CFAC93D1C.root
+17-Aug-2018 18:55:40 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/82D9B0AB-2F42-E811-8442-008CFAC94000.root
+17-Aug-2018 18:55:40 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/82D9B0AB-2F42-E811-8442-008CFAC94000.root
+17-Aug-2018 18:55:47 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/82D9B0AB-2F42-E811-8442-008CFAC94000.root
+17-Aug-2018 18:55:47 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/24E6FD93-3242-E811-80FA-008CFAED6D6C.root
+17-Aug-2018 18:55:47 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/24E6FD93-3242-E811-80FA-008CFAED6D6C.root
+Begin processing the 600001st record. Run 1, Event 4989911, LumiSection 5278 at 17-Aug-2018 18:55:50.332 CEST
+17-Aug-2018 18:55:52 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/24E6FD93-3242-E811-80FA-008CFAED6D6C.root
+17-Aug-2018 18:55:52 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/B064082F-3742-E811-BD3A-008CFAED6FB8.root
+17-Aug-2018 18:55:52 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/B064082F-3742-E811-BD3A-008CFAED6FB8.root
+17-Aug-2018 18:55:59 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/B064082F-3742-E811-BD3A-008CFAED6FB8.root
+17-Aug-2018 18:55:59 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/F2D7D825-3D42-E811-8C65-008CFAEBDE48.root
+17-Aug-2018 18:55:59 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/F2D7D825-3D42-E811-8C65-008CFAEBDE48.root
+Begin processing the 700001st record. Run 1, Event 736929, LumiSection 780 at 17-Aug-2018 18:56:00.943 CEST
+17-Aug-2018 18:56:05 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/F2D7D825-3D42-E811-8C65-008CFAEBDE48.root
+17-Aug-2018 18:56:05 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/06ABEDEA-3F42-E811-BB8B-008CFAC93F58.root
+17-Aug-2018 18:56:05 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/06ABEDEA-3F42-E811-BB8B-008CFAC93F58.root
+Begin processing the 800001st record. Run 1, Event 6377677, LumiSection 6746 at 17-Aug-2018 18:56:12.781 CEST
+17-Aug-2018 18:56:13 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/06ABEDEA-3F42-E811-BB8B-008CFAC93F58.root
+17-Aug-2018 18:56:13 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/D0249BC0-4142-E811-BCA1-008CFAC93C50.root
+17-Aug-2018 18:56:13 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/D0249BC0-4142-E811-BCA1-008CFAC93C50.root
+Begin processing the 900001st record. Run 1, Event 1632114, LumiSection 1727 at 17-Aug-2018 18:56:21.162 CEST
+17-Aug-2018 18:56:22 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/D0249BC0-4142-E811-BCA1-008CFAC93C50.root
+17-Aug-2018 18:56:22 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/7255028B-4242-E811-987A-008CFAC91AB8.root
+17-Aug-2018 18:56:22 CEST  Successfully opened file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/7255028B-4242-E811-987A-008CFAC91AB8.root
+      1.324756      0.001220      1.000000         10000
+ 
+17-Aug-2018 18:56:31 CEST  Closed file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/ZZTo4L_13TeV_powheg_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/10000/7255028B-4242-E811-987A-008CFAC91AB8.root
+
+------------------------------------
+GenXsecAnalyzer:
+------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+Overall cross-section summary 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Process		xsec_before [pb]		passed	nposw	nnegw	tried	nposw	nnegw 	xsec_match [pb]			accepted [%]	 event_eff [%]
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+Total		1.325e+00 +/- 1.220e-03		1999242	1989096	10146	1999242	1989096	10146	1.325e+00 +/- 1.220e-03		100.0 +/- 0.0	100.0 +/- 0.0
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Before matching: total cross section = 1.325e+00 +- 1.220e-03 pb
+After matching: total cross section = 1.325e+00 +- 1.220e-03 pb
+Matching efficiency = 1.0 +/- 0.0   [TO BE USED IN MCM]
+Filter efficiency (taking into account weights)= (1.32498e+06) / (1.32498e+06) = 1.000e+00 +- 0.000e+00
+Filter efficiency (event-level)= (1.00012e+06) / (1.00012e+06) = 1.000e+00 +- 0.000e+00    [TO BE USED IN MCM]
+
+After filter: final cross section = 1.325e+00 +- 1.220e-03 pb
+After filter: final fraction of events with negative weights = 5.074e-03 +- 3.093e-08
+After filter: final equivalent lumi for 1M events (1/fb) = 7.396e+02 +- 5.037e+02
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 GenXSecAnalyzer      -w GenXSecAnalyzer:                      14       14
+    2 fileAction           -s file_close                            14       14
+    3 fileAction           -s file_open                             28       28
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 GenXSecAnalyzer      PostGlobalEndRun PostGlobalEndRun PostGlobalEndRun
+    2 fileAction           PostProcessEvent PostProcessEvent PostGlobalEndRun
+    3 fileAction           pre-events       pre-events       PostProcessEvent
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Warning                14                  14
+System                 42                  42
+
+dropped waiting message count 0

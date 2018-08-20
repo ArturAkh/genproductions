@@ -1,0 +1,1120 @@
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A1CFA52-7F5B-E811-848B-1866DAEEB0A8.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A1CFA52-7F5B-E811-848B-1866DAEEB0A8.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A1D3A19-825B-E811-A7DF-801844E55F38.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A1D3A19-825B-E811-A7DF-801844E55F38.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A49B028B-835B-E811-B943-549F3525AE18.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A49B028B-835B-E811-B943-549F3525AE18.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/4011E681-835B-E811-8931-44A84224BE51.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/4011E681-835B-E811-8931-44A84224BE51.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/104EF783-865B-E811-BD6F-1866DAEA6520.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/104EF783-865B-E811-BD6F-1866DAEA6520.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/30BA3690-865B-E811-A964-1866DAEA7D94.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/30BA3690-865B-E811-A964-1866DAEA7D94.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/989F981C-875B-E811-8C9D-842B2B42C162.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/989F981C-875B-E811-8C9D-842B2B42C162.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8ED43A1D-875B-E811-BFE2-B083FED42A6D.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8ED43A1D-875B-E811-BFE2-B083FED42A6D.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B22EBAAE-895B-E811-A298-1866DAEA6CF0.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B22EBAAE-895B-E811-A298-1866DAEA6CF0.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/68249CB2-895B-E811-8D33-801844DEE7F8.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/68249CB2-895B-E811-8D33-801844DEE7F8.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/023F985B-8A5B-E811-BF0B-B083FED179D5.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/023F985B-8A5B-E811-BF0B-B083FED179D5.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A41A3D8-8A5B-E811-B1C4-842B2B42B758.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A41A3D8-8A5B-E811-B1C4-842B2B42B758.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B07A31E2-8A5B-E811-88C4-B083FED42FAF.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B07A31E2-8A5B-E811-88C4-B083FED42FAF.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A49E4B59-8C5B-E811-9B21-B083FED42A19.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A49E4B59-8C5B-E811-9B21-B083FED42A19.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/C0836B46-8D5B-E811-8F05-C81F66B7910C.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/C0836B46-8D5B-E811-8F05-C81F66B7910C.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A6B8A70C-8E5B-E811-953F-1418774121A1.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A6B8A70C-8E5B-E811-953F-1418774121A1.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/6EBE5FEF-8E5B-E811-AAD4-141877410522.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/6EBE5FEF-8E5B-E811-AAD4-141877410522.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/00C4295F-905B-E811-9E4C-1418774121A1.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/00C4295F-905B-E811-9E4C-1418774121A1.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E0327F79-905B-E811-B4B5-1866DAEA7D94.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E0327F79-905B-E811-B4B5-1866DAEA7D94.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E082A615-915B-E811-B16B-1418774120C3.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E082A615-915B-E811-B16B-1418774120C3.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A0F3322A-925B-E811-AC20-1866DAEA8038.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A0F3322A-925B-E811-AC20-1866DAEA8038.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/C04AA928-925B-E811-8797-801844DEF380.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/C04AA928-925B-E811-8797-801844DEF380.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/10FCC865-935B-E811-9014-1418774126FB.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/10FCC865-935B-E811-9014-1418774126FB.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8E340B59-935B-E811-8073-1866DAEB4100.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8E340B59-935B-E811-8073-1866DAEB4100.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E413A141-945B-E811-9DA2-549F3525DEFC.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E413A141-945B-E811-9DA2-549F3525DEFC.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/163B3477-955B-E811-BC36-1418774124DE.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/163B3477-955B-E811-BC36-1418774124DE.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/2C512811-955B-E811-A8CA-801844DEF380.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/2C512811-955B-E811-A8CA-801844DEF380.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/60B8CD14-975B-E811-BE42-842B2B180A9D.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/60B8CD14-975B-E811-BE42-842B2B180A9D.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/42ECA29B-985B-E811-BB9C-B083FED424C3.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/42ECA29B-985B-E811-BB9C-B083FED424C3.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9E2A9951-985B-E811-9D87-141877411936.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9E2A9951-985B-E811-9D87-141877411936.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/56387F96-985B-E811-AD38-1866DAEB5C78.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/56387F96-985B-E811-AD38-1866DAEB5C78.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A4278C92-985B-E811-B528-1866DAEA7C48.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A4278C92-985B-E811-B528-1866DAEA7C48.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/06D9547E-995B-E811-8920-B083FED42FC3.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/06D9547E-995B-E811-8920-B083FED42FC3.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/44A33B74-9B5B-E811-BDC9-1866DAEB1FCC.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/44A33B74-9B5B-E811-BDC9-1866DAEB1FCC.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/C8BE6212-9B5B-E811-9F11-1866DAEB5C78.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/C8BE6212-9B5B-E811-9F11-1866DAEB5C78.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B8CF7F71-9B5B-E811-807E-1866DAEA8394.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B8CF7F71-9B5B-E811-807E-1866DAEA8394.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/0A5A8F80-9B5B-E811-BC0F-D4AE527F2881.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/0A5A8F80-9B5B-E811-BC0F-D4AE527F2881.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E0D18C71-9B5B-E811-B750-1866DAEA8394.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E0D18C71-9B5B-E811-B750-1866DAEA8394.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/4E39832A-9E5B-E811-9B8B-782BCB20646E.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/4E39832A-9E5B-E811-9B8B-782BCB20646E.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/3C6FB81C-9E5B-E811-847D-1866DAEA7A40.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/3C6FB81C-9E5B-E811-847D-1866DAEA7A40.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/0ECED992-9E5B-E811-8E04-B083FECF837A.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/0ECED992-9E5B-E811-8E04-B083FECF837A.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E2372F59-9F5B-E811-AD13-782BCB20E957.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E2372F59-9F5B-E811-AD13-782BCB20E957.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A4EF8F4C-9F5B-E811-B294-1866DAEA8394.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A4EF8F4C-9F5B-E811-B294-1866DAEA8394.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/EAD89D4B-9F5B-E811-AB95-801844DEF100.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/EAD89D4B-9F5B-E811-AB95-801844DEF100.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/905E205C-9F5B-E811-8000-D4AE526DF5F9.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/905E205C-9F5B-E811-8000-D4AE526DF5F9.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/7A09E858-A05B-E811-9ABC-1866DAEA6520.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/7A09E858-A05B-E811-9ABC-1866DAEA6520.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/3CB41E5B-A05B-E811-8E50-C81F66B78E00.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/3CB41E5B-A05B-E811-8E50-C81F66B78E00.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/1EF5F772-A05B-E811-9A03-B083FED179D5.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/1EF5F772-A05B-E811-9A03-B083FED179D5.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/3E5C497C-A05B-E811-A5AD-782BCB20E921.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/3E5C497C-A05B-E811-A5AD-782BCB20E921.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/FE234105-A25B-E811-B96A-549F3525AE58.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/FE234105-A25B-E811-B96A-549F3525AE58.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/ACE82EFF-A15B-E811-B92D-1866DAEA8394.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/ACE82EFF-A15B-E811-B92D-1866DAEA8394.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E62F19FD-A15B-E811-A58E-782BCB20E957.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E62F19FD-A15B-E811-A58E-782BCB20E957.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/3627FB4B-A25B-E811-8B8C-1866DAEA6C40.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/3627FB4B-A25B-E811-8B8C-1866DAEA6C40.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A24C9548-A25B-E811-9BDA-1866DAEA7E64.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A24C9548-A25B-E811-9BDA-1866DAEA7E64.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/EA3C484E-A25B-E811-896D-549F3525DD6C.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/EA3C484E-A25B-E811-896D-549F3525DD6C.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/D0E87E53-A25B-E811-B56C-44A84224BE51.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/D0E87E53-A25B-E811-B56C-44A84224BE51.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:39 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/22327F4E-A25B-E811-8D77-801844DEF100.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/22327F4E-A25B-E811-8D77-801844DEF100.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/0C450503-A25B-E811-86C3-801844DF0C50.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/0C450503-A25B-E811-86C3-801844DF0C50.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/48DDB4D8-A25B-E811-AE9B-1866DAEA6520.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/48DDB4D8-A25B-E811-AE9B-1866DAEA6520.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/802EB21F-A35B-E811-85C0-141877344D39.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/802EB21F-A35B-E811-85C0-141877344D39.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/76DD731D-A35B-E811-B53F-1866DAEA6CC4.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/76DD731D-A35B-E811-B53F-1866DAEA6CC4.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/DEC6AD1E-A35B-E811-BE50-1866DAEEB0A4.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/DEC6AD1E-A35B-E811-BE50-1866DAEEB0A4.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A6829E1D-A35B-E811-9293-1866DAEA8190.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A6829E1D-A35B-E811-9293-1866DAEA8190.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/3E59FC19-A35B-E811-B9E9-549F3525DD6C.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/3E59FC19-A35B-E811-B9E9-549F3525DD6C.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9804151A-A35B-E811-AA87-549F3525DD6C.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9804151A-A35B-E811-AA87-549F3525DD6C.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/D205A91D-A35B-E811-9DBA-1866DAEA8190.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/D205A91D-A35B-E811-9DBA-1866DAEA8190.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/CE9ED119-A35B-E811-A2D0-549F3525DD6C.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/CE9ED119-A35B-E811-A2D0-549F3525DD6C.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/86D479F6-A35B-E811-BB07-141877411C7F.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/86D479F6-A35B-E811-BB07-141877411C7F.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B86416F7-A35B-E811-B122-549F3525AE58.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B86416F7-A35B-E811-B122-549F3525AE58.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/5EEB9BF9-A35B-E811-80BC-1866DAEA8038.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/5EEB9BF9-A35B-E811-80BC-1866DAEA8038.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8CAFB2F5-A35B-E811-816F-141877412793.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8CAFB2F5-A35B-E811-816F-141877412793.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/4A56AA48-A45B-E811-B0FC-842B2B42BC38.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/4A56AA48-A45B-E811-B0FC-842B2B42BC38.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/7C4C6245-A45B-E811-B87D-842B2B42B758.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/7C4C6245-A45B-E811-B87D-842B2B42B758.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/662AC803-A45B-E811-A279-1866DAEA8230.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/662AC803-A45B-E811-A279-1866DAEA8230.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/02F2C506-A45B-E811-BAEF-B083FED42A19.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/02F2C506-A45B-E811-BAEF-B083FED42A19.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8A61A2FB-A35B-E811-8F56-801844DEF4E0.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8A61A2FB-A35B-E811-8F56-801844DEF4E0.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B83EBE06-A45B-E811-95C2-B083FED42A19.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B83EBE06-A45B-E811-95C2-B083FED42A19.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/46F97D3A-A45B-E811-9016-1866DAEB296C.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/46F97D3A-A45B-E811-9016-1866DAEB296C.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/BABC8F41-A45B-E811-8B7E-141877343E6D.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/BABC8F41-A45B-E811-8B7E-141877343E6D.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/124F3043-A45B-E811-984D-801844DEF100.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/124F3043-A45B-E811-984D-801844DEF100.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/EC624C3E-A45B-E811-B68E-1866DAEB1FCC.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/EC624C3E-A45B-E811-B68E-1866DAEB1FCC.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/00EFB348-A65B-E811-9B26-842B2B42B758.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/00EFB348-A65B-E811-9B26-842B2B42B758.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/CAB15150-A65B-E811-95E4-842B2B42BC38.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/CAB15150-A65B-E811-95E4-842B2B42BC38.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A6FB484C-A65B-E811-BD29-141877412793.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A6FB484C-A65B-E811-BD29-141877412793.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8AFFD7FC-A65B-E811-A5A3-B083FED04CAA.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8AFFD7FC-A65B-E811-A5A3-B083FED04CAA.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/220CD9FC-A65B-E811-891E-B083FED04CAA.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/220CD9FC-A65B-E811-891E-B083FED04CAA.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/10A45A68-A75B-E811-A89B-1866DAEA6520.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/10A45A68-A75B-E811-A89B-1866DAEA6520.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/FEBE570C-A85B-E811-81E2-549F3525A184.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/FEBE570C-A85B-E811-81E2-549F3525A184.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/303EDC72-A75B-E811-A428-1866DAEA8394.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/303EDC72-A75B-E811-A428-1866DAEA8394.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/48C7B06B-A75B-E811-8C1C-801844DEF068.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/48C7B06B-A75B-E811-8C1C-801844DEF068.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/F275F919-A85B-E811-B8E8-90B11C0BCDAD.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/F275F919-A85B-E811-B8E8-90B11C0BCDAD.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/2CFCD50C-AA5B-E811-B3CF-549F3525BF58.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/2CFCD50C-AA5B-E811-B3CF-549F3525BF58.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E6BDF80E-AA5B-E811-8CDE-1866DAEA6520.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/E6BDF80E-AA5B-E811-8CDE-1866DAEA6520.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9ED63EED-AA5B-E811-9ABB-B083FED045EC.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9ED63EED-AA5B-E811-9ABB-B083FED045EC.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/7E302ED8-AA5B-E811-9038-141877410522.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/7E302ED8-AA5B-E811-9038-141877410522.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/64CC6221-AB5B-E811-8A5D-B083FED3EE24.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/64CC6221-AB5B-E811-8A5D-B083FED3EE24.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/780D5D3F-AC5B-E811-9B32-1866DAEA6D0C.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/780D5D3F-AC5B-E811-9B32-1866DAEA6D0C.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B893FC3D-AC5B-E811-B7F3-141877410512.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B893FC3D-AC5B-E811-B7F3-141877410512.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/50994539-AC5B-E811-B1B9-801844E55F34.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/50994539-AC5B-E811-B1B9-801844E55F34.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+Failed open file in the dCache.
+%MSG-w StorageFactory::stagein():  PoolSource:source@sourceConstruction  17-Aug-2018 18:53:40 CEST pre-events
+Failed to stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/5CD83337-AC5B-E811-8BD5-1866DAEB1FCC.root' because:
+An exception of category 'FileStageInError' occurred while
+   [0] Calling DCacheStorageMaker::stagein()
+Exception Message:
+Cannot stage in file 'dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/5CD83337-AC5B-E811-8BD5-1866DAEB1FCC.root', error was: "No such file or directory" (dc_errno=30)
+
+%MSG
+17-Aug-2018 18:53:40 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A1CFA52-7F5B-E811-848B-1866DAEEB0A8.root
+Failed open file in the dCache.
+17-Aug-2018 18:53:40 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A1CFA52-7F5B-E811-848B-1866DAEEB0A8.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:53:50 CEST pre-events
+Data is served from T2_US_MIT instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:53:54 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A1CFA52-7F5B-E811-848B-1866DAEEB0A8.root
+Begin processing the 1st record. Run 1, Event 6282380, LumiSection 5141 at 17-Aug-2018 18:54:00.869 CEST
+17-Aug-2018 18:54:06 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A1CFA52-7F5B-E811-848B-1866DAEEB0A8.root
+17-Aug-2018 18:54:06 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A1D3A19-825B-E811-A7DF-801844E55F38.root
+Failed open file in the dCache.
+17-Aug-2018 18:54:06 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A1D3A19-825B-E811-A7DF-801844E55F38.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:54:15 CEST PostProcessEvent
+Data is served from T2_US_MIT instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:54:16 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A1D3A19-825B-E811-A7DF-801844E55F38.root
+Begin processing the 100001st record. Run 1, Event 39424938, LumiSection 32257 at 17-Aug-2018 18:54:26.132 CEST
+17-Aug-2018 18:54:26 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A1D3A19-825B-E811-A7DF-801844E55F38.root
+17-Aug-2018 18:54:26 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A49B028B-835B-E811-B943-549F3525AE18.root
+Failed open file in the dCache.
+17-Aug-2018 18:54:26 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A49B028B-835B-E811-B943-549F3525AE18.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:54:34 CEST PostProcessEvent
+Data is served from T2_US_MIT instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:54:35 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A49B028B-835B-E811-B943-549F3525AE18.root
+17-Aug-2018 18:54:47 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A49B028B-835B-E811-B943-549F3525AE18.root
+17-Aug-2018 18:54:47 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/4011E681-835B-E811-8931-44A84224BE51.root
+Failed open file in the dCache.
+17-Aug-2018 18:54:47 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/4011E681-835B-E811-8931-44A84224BE51.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:54:55 CEST PostProcessEvent
+Data is served from T2_US_MIT instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:54:56 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/4011E681-835B-E811-8931-44A84224BE51.root
+Begin processing the 200001st record. Run 1, Event 7254962, LumiSection 5936 at 17-Aug-2018 18:55:04.890 CEST
+17-Aug-2018 18:55:08 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/4011E681-835B-E811-8931-44A84224BE51.root
+17-Aug-2018 18:55:08 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/104EF783-865B-E811-BD6F-1866DAEA6520.root
+Failed open file in the dCache.
+17-Aug-2018 18:55:08 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/104EF783-865B-E811-BD6F-1866DAEA6520.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:55:16 CEST PostProcessEvent
+Data is served from T2_US_MIT instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:55:16 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/104EF783-865B-E811-BD6F-1866DAEA6520.root
+Begin processing the 300001st record. Run 1, Event 2977877, LumiSection 2437 at 17-Aug-2018 18:55:28.436 CEST
+17-Aug-2018 18:55:29 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/104EF783-865B-E811-BD6F-1866DAEA6520.root
+17-Aug-2018 18:55:29 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/30BA3690-865B-E811-A964-1866DAEA7D94.root
+Failed open file in the dCache.
+17-Aug-2018 18:55:29 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/30BA3690-865B-E811-A964-1866DAEA7D94.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:55:37 CEST PostProcessEvent
+Data is served from cmsaf.mit.edu instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:55:38 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/30BA3690-865B-E811-A964-1866DAEA7D94.root
+%MSG-w XrdAdaptor:  (NoModuleName) 17-Aug-2018 18:55:43 CEST pre-events
+Data is now served from cmsaf.mit.edu, T2_US_MIT instead of previous cmsaf.mit.edu
+%MSG
+17-Aug-2018 18:55:50 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/30BA3690-865B-E811-A964-1866DAEA7D94.root
+17-Aug-2018 18:55:50 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/989F981C-875B-E811-8C9D-842B2B42C162.root
+Failed open file in the dCache.
+17-Aug-2018 18:55:50 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/989F981C-875B-E811-8C9D-842B2B42C162.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:55:58 CEST PostProcessEvent
+Data is served from T2_US_MIT instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:55:58 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/989F981C-875B-E811-8C9D-842B2B42C162.root
+Begin processing the 400001st record. Run 1, Event 22413113, LumiSection 18338 at 17-Aug-2018 18:56:07.199 CEST
+17-Aug-2018 18:56:09 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/989F981C-875B-E811-8C9D-842B2B42C162.root
+17-Aug-2018 18:56:09 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8ED43A1D-875B-E811-BFE2-B083FED42A6D.root
+Failed open file in the dCache.
+17-Aug-2018 18:56:09 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8ED43A1D-875B-E811-BFE2-B083FED42A6D.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:56:17 CEST PostProcessEvent
+Data is served from T2_US_MIT instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:56:17 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8ED43A1D-875B-E811-BFE2-B083FED42A6D.root
+17-Aug-2018 18:56:31 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/8ED43A1D-875B-E811-BFE2-B083FED42A6D.root
+17-Aug-2018 18:56:31 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B22EBAAE-895B-E811-A298-1866DAEA6CF0.root
+Failed open file in the dCache.
+17-Aug-2018 18:56:31 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B22EBAAE-895B-E811-A298-1866DAEA6CF0.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:56:39 CEST PostProcessEvent
+Data is served from T2_US_MIT instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:56:39 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B22EBAAE-895B-E811-A298-1866DAEA6CF0.root
+%MSG-w XrdAdaptor:  (NoModuleName) 17-Aug-2018 18:56:44 CEST pre-events
+Data is now served from T2_US_MIT, cmsaf.mit.edu instead of previous T2_US_MIT
+%MSG
+%MSG-w XrdAdaptor:  source 17-Aug-2018 18:56:45 CEST PostProcessEvent
+Data is now served from T2_US_MIT instead of previous T2_US_MIT, cmsaf.mit.edu
+%MSG
+Begin processing the 500001st record. Run 1, Event 15708513, LumiSection 12853 at 17-Aug-2018 18:56:46.074 CEST
+17-Aug-2018 18:56:49 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B22EBAAE-895B-E811-A298-1866DAEA6CF0.root
+17-Aug-2018 18:56:49 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/68249CB2-895B-E811-8D33-801844DEE7F8.root
+Failed open file in the dCache.
+17-Aug-2018 18:56:49 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/68249CB2-895B-E811-8D33-801844DEE7F8.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:56:57 CEST PostProcessEvent
+Data is served from T2_US_MIT instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:56:57 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/68249CB2-895B-E811-8D33-801844DEE7F8.root
+%MSG-w XrdAdaptor:  (NoModuleName) 17-Aug-2018 18:57:03 CEST pre-events
+Data is now served from T2_US_MIT, cmsaf.mit.edu instead of previous T2_US_MIT
+%MSG
+Begin processing the 600001st record. Run 1, Event 10591567, LumiSection 8666 at 17-Aug-2018 18:57:09.059 CEST
+17-Aug-2018 18:57:10 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/68249CB2-895B-E811-8D33-801844DEE7F8.root
+17-Aug-2018 18:57:10 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/023F985B-8A5B-E811-BF0B-B083FED179D5.root
+Failed open file in the dCache.
+17-Aug-2018 18:57:10 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/023F985B-8A5B-E811-BF0B-B083FED179D5.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:57:18 CEST PostProcessEvent
+Data is served from cmsaf.mit.edu instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:57:18 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/023F985B-8A5B-E811-BF0B-B083FED179D5.root
+%MSG-w XrdAdaptor:  (NoModuleName) 17-Aug-2018 18:57:23 CEST pre-events
+Data is now served from cmsaf.mit.edu, T2_US_MIT instead of previous cmsaf.mit.edu
+%MSG
+%MSG-w XrdAdaptor:  source 17-Aug-2018 18:57:24 CEST PostProcessEvent
+Data is now served from cmsaf.mit.edu instead of previous cmsaf.mit.edu, T2_US_MIT
+%MSG
+17-Aug-2018 18:57:28 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/023F985B-8A5B-E811-BF0B-B083FED179D5.root
+17-Aug-2018 18:57:28 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A41A3D8-8A5B-E811-B1C4-842B2B42B758.root
+Failed open file in the dCache.
+17-Aug-2018 18:57:28 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A41A3D8-8A5B-E811-B1C4-842B2B42B758.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:57:36 CEST PostProcessEvent
+Data is served from cmsaf.mit.edu instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:57:36 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A41A3D8-8A5B-E811-B1C4-842B2B42B758.root
+Begin processing the 700001st record. Run 1, Event 19097120, LumiSection 15625 at 17-Aug-2018 18:57:46.905 CEST
+17-Aug-2018 18:57:49 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/9A41A3D8-8A5B-E811-B1C4-842B2B42B758.root
+17-Aug-2018 18:57:49 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B07A31E2-8A5B-E811-88C4-B083FED42FAF.root
+Failed open file in the dCache.
+17-Aug-2018 18:57:49 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B07A31E2-8A5B-E811-88C4-B083FED42FAF.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:57:57 CEST PostProcessEvent
+Data is served from cmsaf.mit.edu instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:57:57 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B07A31E2-8A5B-E811-88C4-B083FED42FAF.root
+17-Aug-2018 18:58:07 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/B07A31E2-8A5B-E811-88C4-B083FED42FAF.root
+17-Aug-2018 18:58:07 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A49E4B59-8C5B-E811-9B21-B083FED42A19.root
+Failed open file in the dCache.
+17-Aug-2018 18:58:07 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A49E4B59-8C5B-E811-9B21-B083FED42A19.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:58:15 CEST PostProcessEvent
+Data is served from T2_US_MIT instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:58:16 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A49E4B59-8C5B-E811-9B21-B083FED42A19.root
+Begin processing the 800001st record. Run 1, Event 10517364, LumiSection 8605 at 17-Aug-2018 18:58:25.086 CEST
+17-Aug-2018 18:58:29 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A49E4B59-8C5B-E811-9B21-B083FED42A19.root
+17-Aug-2018 18:58:29 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/C0836B46-8D5B-E811-8F05-C81F66B7910C.root
+Failed open file in the dCache.
+17-Aug-2018 18:58:29 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/C0836B46-8D5B-E811-8F05-C81F66B7910C.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:58:43 CEST PostProcessEvent
+Data is served from T2_US_MIT instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:58:43 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/C0836B46-8D5B-E811-8F05-C81F66B7910C.root
+Begin processing the 900001st record. Run 1, Event 14773530, LumiSection 12087 at 17-Aug-2018 18:58:54.409 CEST
+17-Aug-2018 18:58:56 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/C0836B46-8D5B-E811-8F05-C81F66B7910C.root
+17-Aug-2018 18:58:56 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A6B8A70C-8E5B-E811-953F-1418774121A1.root
+Failed open file in the dCache.
+17-Aug-2018 18:58:56 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A6B8A70C-8E5B-E811-953F-1418774121A1.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:59:09 CEST PostProcessEvent
+Data is served from T2_US_MIT instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:59:09 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A6B8A70C-8E5B-E811-953F-1418774121A1.root
+17-Aug-2018 18:59:22 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/A6B8A70C-8E5B-E811-953F-1418774121A1.root
+17-Aug-2018 18:59:22 CEST  Initiating request to open file dcap://dcache-cms-dcap.desy.de//pnfs/desy.de/cms/tier2/store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/6EBE5FEF-8E5B-E811-AAD4-141877410522.root
+Failed open file in the dCache.
+17-Aug-2018 18:59:22 CEST  Fallback request to file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/6EBE5FEF-8E5B-E811-AAD4-141877410522.root
+%MSG-w XrdAdaptor:  file_open 17-Aug-2018 18:59:35 CEST PostProcessEvent
+Data is served from T2_US_MIT instead of original site T2_IT_Pisa
+%MSG
+17-Aug-2018 18:59:35 CEST  Successfully opened file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/6EBE5FEF-8E5B-E811-AAD4-141877410522.root
+      5.868799      0.007028     16.151517             0
+      3.371671      0.007659     16.151517             1
+ 
+17-Aug-2018 18:59:43 CEST  Closed file root://xrootd-cms.infn.it//store/mc/RunIIFall17MiniAODv2/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/MINIAODSIM/PU2017_12Apr2018_94X_mc2017_realistic_v14-v1/100000/6EBE5FEF-8E5B-E811-AAD4-141877410522.root
+
+------------------------------------
+GenXsecAnalyzer:
+------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+Overall cross-section summary 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Process		xsec_before [pb]		passed	nposw	nnegw	tried	nposw	nnegw 	xsec_match [pb]			accepted [%]	 event_eff [%]
+0		5.869e+00 +/- 7.028e-03		427481	389453	38028	680285	617821	62464	3.714e+00 +/- 6.126e-03		63.3 +/- 0.1	62.8 +/- 0.1
+1		3.372e+00 +/- 7.659e-03		572954	413168	159786	845639	585116	260523	2.632e+00 +/- 7.527e-03		78.1 +/- 0.1	67.8 +/- 0.1
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+Total		9.240e+00 +/- 1.040e-02		1000435	802621	197814	1525924	1202937	322987	6.351e+00 +/- 9.445e-03		68.7 +/- 0.1	65.6 +/- 0.0
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Before matching: total cross section = 9.240e+00 +- 1.040e-02 pb
+After matching: total cross section = 6.351e+00 +- 9.445e-03 pb
+Matching efficiency = 0.7 +/- 0.0   [TO BE USED IN MCM]
+Filter efficiency (taking into account weights)= (9.76855e+06) / (9.76855e+06) = 1.000e+00 +- 0.000e+00
+Filter efficiency (event-level)= (1.00044e+06) / (1.00044e+06) = 1.000e+00 +- 0.000e+00    [TO BE USED IN MCM]
+
+After filter: final cross section = 6.351e+00 +- 9.445e-03 pb
+After filter: final fraction of events with negative weights = 1.977e-01 +- 3.548e-05
+After filter: final equivalent lumi for 1M events (1/fb) = 5.754e+01 +- 4.985e+00
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 GenXSecAnalyzer      -w GenXSecAnalyzer:                      16       16
+    2 StorageFactory::stag -w PoolSource:sourc                     100      100
+    3 XrdAdaptor           -w (NoModuleName)                         4        4
+    4 XrdAdaptor           -w file_open                             17       17
+    5 XrdAdaptor           -w source                                 2        2
+    6 fileAction           -s file_close                            17       17
+    7 fileAction           -s file_open                             51       51
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 GenXSecAnalyzer      PostGlobalEndRun PostGlobalEndRun PostGlobalEndRun
+    2 StorageFactory::stagein() pre-events       pre-events       pre-events
+    3 XrdAdaptor           pre-events       pre-events       pre-events
+    4 XrdAdaptor           pre-events       PostProcessEvent PostProcessEvent
+    5 XrdAdaptor           PostProcessEvent PostProcessEvent 
+    6 fileAction           PostProcessEvent PostProcessEvent PostGlobalEndRun
+    7 fileAction           pre-events       pre-events       PostProcessEvent
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Warning               139                 139
+System                 68                  68
+
+dropped waiting message count 0
